@@ -7,7 +7,7 @@ region = "sa-saopaulo-1"
 compartment_id = "ocid1.compartment.oc1..aaaaaaaap6g326n5ynlryripx5hkgr4mpryvvhz6gbpltorexcc3r2dqtqvq"
 
 # VCN 
-vcn_cidr_block = "192.168.1.0/24"
+vcn_cidr_block = "192.168.2.0/24"
 vcn_display_name = "gitoci"
 vcn_dns_label = "gitoci"
 
